@@ -10,7 +10,7 @@ file2 = open("country.txt", "a")
 file3 = open("phone.txt", "a")
 file4 =open("first name.txt", "a")
 file5 = open("last name.txt", "a")
-## todo:: file.write (with open), for loop, while loop, lamdba func, http server, little gui, selenium, self class, self arg
+
 
 def home():
     global country
